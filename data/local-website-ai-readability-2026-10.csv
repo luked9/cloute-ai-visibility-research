@@ -1,0 +1,4 @@
+industry,sites_tested,refused_or_challenged_pct,robots_blocks_ai_search_pct,robots_blocks_ai_training_pct,near_empty_without_js_pct
+Car dealerships,2915,29.5,0.3,2.2,2.3
+Hotels,256,15.2,0.0,0.8,4.7
+Dental practices,2972,3.4,2.3,4.0,1.4
