@@ -28,7 +28,7 @@ How answers are collected, read and counted: [cloute.ai/research/methodology](ht
 
 ## Updates
 
-The AEO Vendor Visibility Index is re-run monthly on the same questions. New editions are added to `data/` with the month in the file name.
+New editions of the AEO Vendor Visibility Index reuse the same questions and are added to `data/` with the month in the file name.
 
 ## Contact
 
