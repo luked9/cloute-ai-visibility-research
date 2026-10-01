@@ -1,0 +1,7 @@
+engine,named_when_read_pct,named_when_not_read_pct
+All engines,83.7,16.2
+Gemini,92.2,20.7
+Google AI Overviews,89.0,33.4
+Claude,86.6,11.9
+Perplexity,81.3,16.7
+ChatGPT,79.4,21.1

@@ -1,0 +1,8 @@
+crawler,operator,purpose,visits_2026
+ClaudeBot,Anthropic,training,17471
+GPTBot,OpenAI,training,13991
+Amazonbot,Amazon,crawling for Amazon services,10389
+OAI-SearchBot,OpenAI,search index (ChatGPT search),8861
+ChatGPT-User,OpenAI,live fetch during an answer,7582
+Meta AI crawlers (meta-externalagent; FacebookBot),Meta,training and crawling for Meta AI,5120
+PerplexityBot,Perplexity,search index,4160
