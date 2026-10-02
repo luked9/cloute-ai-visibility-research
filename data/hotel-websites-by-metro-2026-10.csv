@@ -1,0 +1,45 @@
+rank,metro,hotel_pages_tested,could_not_be_read,could_not_be_read_pct,on_brand_website,on_own_website,page
+1,"Orlando, FL",31,27,87.1,31,0,https://cloute.ai/industries/hotels-orlando-fl
+2,"Minneapolis, MN",31,26,83.9,30,1,https://cloute.ai/industries/hotels-minneapolis-mn
+3,"Tampa, FL",54,45,83.3,48,6,https://cloute.ai/industries/hotels-tampa-fl
+4,"Phoenix, AZ",30,25,83.3,26,4,https://cloute.ai/industries/hotels-phoenix-az
+5,"Birmingham, AL",32,26,81.2,30,2,https://cloute.ai/industries/hotels-birmingham-al
+6,"Omaha, NE",32,26,81.2,31,1,https://cloute.ai/industries/hotels-omaha-ne
+7,"Charlotte, NC",48,36,75.0,42,6,https://cloute.ai/industries/hotels-charlotte-nc
+8,"Philadelphia, PA",55,41,74.5,46,9,https://cloute.ai/industries/hotels-philadelphia-pa
+9,"Salt Lake City, UT",38,28,73.7,32,6,https://cloute.ai/industries/hotels-salt-lake-city-ut
+10,"Kansas City, MO",34,25,73.5,29,5,https://cloute.ai/industries/hotels-kansas-city-mo
+11,"St. Louis, MO",37,27,73.0,32,5,https://cloute.ai/industries/hotels-st-louis-mo
+12,"Washington, DC",47,34,72.3,36,11,https://cloute.ai/industries/hotels-washington-dc
+13,"Atlanta, GA",52,37,71.2,44,8,https://cloute.ai/industries/hotels-atlanta-ga
+14,"Dallas, TX",60,42,70.0,49,11,https://cloute.ai/industries/hotels-dallas-tx
+15,"Houston, TX",59,41,69.5,54,5,https://cloute.ai/industries/hotels-houston-tx
+16,"Pittsburgh, PA",35,24,68.6,29,6,https://cloute.ai/industries/hotels-pittsburgh-pa
+17,"Chicago, IL",50,34,68.0,40,10,https://cloute.ai/industries/hotels-chicago-il
+18,"San Antonio, TX",57,38,66.7,52,5,https://cloute.ai/industries/hotels-san-antonio-tx
+19,"Baltimore, MD",53,35,66.0,47,6,https://cloute.ai/industries/hotels-baltimore-md
+20,"Virginia Beach, VA",53,35,66.0,43,10,https://cloute.ai/industries/hotels-virginia-beach-va
+21,"Oklahoma City, OK",35,23,65.7,32,3,https://cloute.ai/industries/hotels-oklahoma-city-ok
+22,"Nashville, TN",46,30,65.2,43,3,https://cloute.ai/industries/hotels-nashville-tn
+23,"Austin, TX",53,34,64.2,43,10,https://cloute.ai/industries/hotels-austin-tx
+24,"Boston, MA",39,25,64.1,29,10,https://cloute.ai/industries/hotels-boston-ma
+25,"Indianapolis, IN",58,37,63.8,55,3,https://cloute.ai/industries/hotels-indianapolis-in
+26,"Milwaukee, WI",31,19,61.3,21,10,https://cloute.ai/industries/hotels-milwaukee-wi
+27,"Louisville, KY",31,19,61.3,28,3,https://cloute.ai/industries/hotels-louisville-ky
+28,"San Diego, CA",51,31,60.8,33,18,https://cloute.ai/industries/hotels-san-diego-ca
+29,"Columbus, OH",53,32,60.4,49,4,https://cloute.ai/industries/hotels-columbus-oh
+30,"Seattle, WA",60,36,60.0,47,13,https://cloute.ai/industries/hotels-seattle-wa
+31,"Miami, FL",32,19,59.4,22,10,https://cloute.ai/industries/hotels-miami-fl
+32,"Portland, OR",34,20,58.8,21,13,https://cloute.ai/industries/hotels-portland-or
+33,"Albuquerque, NM",31,18,58.1,27,4,https://cloute.ai/industries/hotels-albuquerque-nm
+34,"New York, NY",33,18,54.5,22,11,https://cloute.ai/industries/hotels-new-york-ny
+35,"Jacksonville, FL",43,23,53.5,38,5,https://cloute.ai/industries/hotels-jacksonville-fl
+36,"Boise, ID",40,21,52.5,26,14,https://cloute.ai/industries/hotels-boise-id
+37,"Tulsa, OK",39,20,51.3,28,11,https://cloute.ai/industries/hotels-tulsa-ok
+38,"Los Angeles, CA",38,19,50.0,23,15,https://cloute.ai/industries/hotels-los-angeles-ca
+39,"Memphis, TN",46,23,50.0,34,12,https://cloute.ai/industries/hotels-memphis-tn
+40,"San Francisco, CA",74,36,48.6,35,39,https://cloute.ai/industries/hotels-san-francisco-ca
+41,"New Orleans, LA",54,26,48.1,33,21,https://cloute.ai/industries/hotels-new-orleans-la
+42,"Denver, CO",61,29,47.5,53,8,https://cloute.ai/industries/hotels-denver-co
+43,"Park City, UT",40,15,37.5,17,23,https://cloute.ai/industries/hotels-park-city-ut
+44,"Las Vegas, NV",60,20,33.3,23,37,https://cloute.ai/industries/hotels-las-vegas-nv

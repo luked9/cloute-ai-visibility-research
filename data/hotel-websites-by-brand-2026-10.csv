@@ -1,0 +1,13 @@
+group,property_pages_tested,blocked_or_challenged,no_answer_in_10s,could_not_be_read,could_not_be_read_pct,readable,page
+All hotel pages,2280,1176,282,1458,63.9,815,https://cloute.ai/research/hotel-websites-by-brand
+Hosted on a hotel brand website,1820,1116,282,1398,76.8,422,
+Hotel on its own website,460,60,0,60,13.0,393,
+Hilton,596,314,282,596,100.0,0,https://cloute.ai/industries/hilton-hotels
+Marriott,423,423,0,423,100.0,0,https://cloute.ai/industries/marriott-hotels
+Hyatt,158,158,0,158,100.0,0,https://cloute.ai/industries/hyatt-hotels
+Best Western,38,38,0,38,100.0,0,https://cloute.ai/industries/best-western-hotels
+Extended Stay America,215,183,0,183,85.1,32,https://cloute.ai/industries/extended-stay-america-hotels
+IHG,226,0,0,0,0.0,226,https://cloute.ai/industries/ihg-hotels
+WoodSpring Suites,34,0,0,0,0.0,34,https://cloute.ai/industries/woodspring-suites-hotels
+InTown Suites,23,0,0,0,0.0,23,https://cloute.ai/industries/intown-suites-hotels
+Sonesta,22,0,0,0,0.0,22,https://cloute.ai/industries/sonesta-hotels
