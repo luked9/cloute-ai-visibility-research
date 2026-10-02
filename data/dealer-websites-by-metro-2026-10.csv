@@ -1,0 +1,58 @@
+rank,metro,dealer_sites_tested,refused_or_challenged,refused_or_challenged_pct,block_ai_search_crawler_in_robots,sites_readable,near_empty_homepage,median_readable_text_chars,dental_sites_tested,dental_refused_or_challenged_pct,page
+1,"Detroit, MI",51,32,62.7,1,18,0,9198,40,0.0,https://cloute.ai/industries/car-dealerships-detroit-mi
+2,"Raleigh, NC",51,27,52.9,0,24,0,6006,49,4.1,https://cloute.ai/industries/car-dealerships-raleigh-nc
+3,"Omaha, NE",55,28,50.9,0,27,0,5759,45,4.4,https://cloute.ai/industries/car-dealerships-omaha-ne
+4,"Kansas City, MO",54,27,50.0,0,27,0,8919,53,3.8,https://cloute.ai/industries/car-dealerships-kansas-city-mo
+5,"Providence, RI",49,24,49.0,0,22,1,7343,38,5.3,https://cloute.ai/industries/car-dealerships-providence-ri
+6,"Provo, UT",47,23,48.9,0,21,0,6075,37,0.0,https://cloute.ai/industries/car-dealerships-provo-ut
+7,"St. Louis, MO",51,24,47.1,1,27,2,8955,46,6.5,https://cloute.ai/industries/car-dealerships-st-louis-mo
+8,"Sacramento, CA",49,22,44.9,0,27,1,4746,60,0.0,https://cloute.ai/industries/car-dealerships-sacramento-ca
+9,"Baltimore, MD",46,19,41.3,1,27,1,4834,56,3.6,https://cloute.ai/industries/car-dealerships-baltimore-md
+10,"San Jose, CA",55,22,40.0,0,33,2,6829,57,3.5,https://cloute.ai/industries/car-dealerships-san-jose-ca
+11,"Phoenix, AZ",56,22,39.3,0,32,1,6629,58,0.0,https://cloute.ai/industries/car-dealerships-phoenix-az
+12,"Virginia Beach, VA",56,22,39.3,0,32,1,5145,54,3.7,https://cloute.ai/industries/car-dealerships-virginia-beach-va
+13,"Richmond, VA",52,20,38.5,0,31,0,5877,50,8.0,https://cloute.ai/industries/car-dealerships-richmond-va
+14,"Las Vegas, NV",51,19,37.3,0,32,1,5003,45,0.0,https://cloute.ai/industries/car-dealerships-las-vegas-nv
+15,"Oklahoma City, OK",49,18,36.7,0,31,0,6773,51,5.9,https://cloute.ai/industries/car-dealerships-oklahoma-city-ok
+16,"Seattle, WA",53,19,35.8,1,34,2,4387,59,3.4,https://cloute.ai/industries/car-dealerships-seattle-wa
+17,"Tampa, FL",50,17,34.0,0,33,2,11241,60,3.3,https://cloute.ai/industries/car-dealerships-tampa-fl
+18,"Boston, MA",54,18,33.3,0,35,0,6511,50,6.0,https://cloute.ai/industries/car-dealerships-boston-ma
+19,"St. George, UT",36,12,33.3,0,24,0,4359,52,0.0,https://cloute.ai/industries/car-dealerships-st-george-ut
+20,"Boise, ID",55,18,32.7,0,37,0,6045,57,3.5,https://cloute.ai/industries/car-dealerships-boise-id
+21,"Buffalo, NY",43,14,32.6,0,27,0,5025,40,0.0,https://cloute.ai/industries/car-dealerships-buffalo-ny
+22,"Riverside, CA",52,16,30.8,1,36,0,6143,50,0.0,https://cloute.ai/industries/car-dealerships-riverside-ca
+23,"Miami, FL",53,16,30.2,1,36,0,4968,58,3.4,https://cloute.ai/industries/car-dealerships-miami-fl
+24,"Pittsburgh, PA",53,16,30.2,0,37,0,6547,48,4.2,https://cloute.ai/industries/car-dealerships-pittsburgh-pa
+25,"Hartford, CT",55,16,29.1,0,36,0,5758,46,8.7,https://cloute.ai/industries/car-dealerships-hartford-ct
+26,"Jacksonville, FL",53,15,28.3,0,38,4,6297,48,2.1,https://cloute.ai/industries/car-dealerships-jacksonville-fl
+27,"Louisville, KY",53,15,28.3,0,37,0,6429,49,6.1,https://cloute.ai/industries/car-dealerships-louisville-ky
+28,"Houston, TX",57,16,28.1,0,41,2,6349,53,1.9,https://cloute.ai/industries/car-dealerships-houston-tx
+29,"Portland, OR",57,16,28.1,1,40,1,5278,54,1.9,https://cloute.ai/industries/car-dealerships-portland-or
+30,"Philadelphia, PA",50,14,28.0,0,35,0,5624,54,3.7,https://cloute.ai/industries/car-dealerships-philadelphia-pa
+31,"Charlotte, NC",48,13,27.1,0,35,1,7375,55,12.7,https://cloute.ai/industries/car-dealerships-charlotte-nc
+32,"Austin, TX",52,14,26.9,0,38,0,7363,56,0.0,https://cloute.ai/industries/car-dealerships-austin-tx
+33,"Tulsa, OK",52,14,26.9,0,38,0,5525,53,7.5,https://cloute.ai/industries/car-dealerships-tulsa-ok
+34,"Cleveland, OH",50,13,26.0,0,36,2,7488,38,0.0,https://cloute.ai/industries/car-dealerships-cleveland-oh
+35,"Los Angeles, CA",55,14,25.5,0,37,0,6971,56,3.6,https://cloute.ai/industries/car-dealerships-los-angeles-ca
+36,"San Diego, CA",51,13,25.5,0,38,0,6581,57,0.0,https://cloute.ai/industries/car-dealerships-san-diego-ca
+37,"Minneapolis, MN",53,13,24.5,0,39,2,7572,58,0.0,https://cloute.ai/industries/car-dealerships-minneapolis-mn
+38,"Cincinnati, OH",54,13,24.1,0,41,0,8074,53,5.7,https://cloute.ai/industries/car-dealerships-cincinnati-oh
+39,"Memphis, TN",55,13,23.6,0,41,1,4527,45,8.9,https://cloute.ai/industries/car-dealerships-memphis-tn
+40,"Ogden, UT",43,10,23.3,0,33,2,6427,51,2.0,https://cloute.ai/industries/car-dealerships-ogden-ut
+41,"Nashville, TN",48,11,22.9,0,37,3,5512,58,1.7,https://cloute.ai/industries/car-dealerships-nashville-tn
+42,"Birmingham, AL",49,11,22.4,0,35,2,5706,51,2.0,https://cloute.ai/industries/car-dealerships-birmingham-al
+43,"Albuquerque, NM",49,11,22.4,0,38,1,5046,48,0.0,https://cloute.ai/industries/car-dealerships-albuquerque-nm
+44,"Milwaukee, WI",54,12,22.2,0,41,0,7035,52,3.8,https://cloute.ai/industries/car-dealerships-milwaukee-wi
+45,"San Antonio, TX",51,11,21.6,0,40,0,9985,51,3.9,https://cloute.ai/industries/car-dealerships-san-antonio-tx
+46,"Salt Lake City, UT",55,11,20.0,0,43,4,5484,54,0.0,https://cloute.ai/industries/car-dealerships-salt-lake-city-ut
+47,"Denver, CO",52,10,19.2,0,42,2,4478,50,2.0,https://cloute.ai/industries/car-dealerships-denver-co
+48,"Washington, DC",43,8,18.6,0,34,1,6647,55,9.1,https://cloute.ai/industries/car-dealerships-washington-dc
+49,"New Orleans, LA",43,8,18.6,0,32,0,7643,54,7.4,https://cloute.ai/industries/car-dealerships-new-orleans-la
+50,"Dallas, TX",55,10,18.2,1,45,0,6693,58,1.7,https://cloute.ai/industries/car-dealerships-dallas-tx
+51,"Orlando, FL",49,7,14.3,0,42,3,8787,54,1.9,https://cloute.ai/industries/car-dealerships-orlando-fl
+52,"Columbus, OH",50,7,14.0,0,42,0,7979,56,5.4,https://cloute.ai/industries/car-dealerships-columbus-oh
+53,"Chicago, IL",56,7,12.5,0,47,1,4964,52,5.8,https://cloute.ai/industries/car-dealerships-chicago-il
+54,"San Francisco, CA",42,5,11.9,0,36,0,6124,60,5.0,https://cloute.ai/industries/car-dealerships-san-francisco-ca
+55,"Atlanta, GA",54,6,11.1,0,48,1,8160,56,3.6,https://cloute.ai/industries/car-dealerships-atlanta-ga
+56,"Indianapolis, IN",52,5,9.6,0,46,0,5752,41,2.4,https://cloute.ai/industries/car-dealerships-indianapolis-in
+57,"New York, NY",50,3,6.0,0,44,0,6176,53,0.0,https://cloute.ai/industries/car-dealerships-new-york-ny

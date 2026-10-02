@@ -1,0 +1,20 @@
+brand,dealer_sites_tested,refused_or_challenged,refused_or_challenged_pct,block_ai_search_crawler_in_robots,sites_readable,near_empty_homepage,top_platforms_among_readable,page
+Genesis,29,7,24.1,0,22,0,Dealer.com (12); Dealer Inspire (7),https://cloute.ai/industries/genesis-dealers
+Subaru,35,8,22.9,0,27,0,Dealer.com (13); Dealer Inspire (8); Team Velocity (3),https://cloute.ai/industries/subaru-dealers
+Lexus,40,9,22.5,0,31,1,Dealer.com (16); Dealer Inspire (9),https://cloute.ai/industries/lexus-dealers
+Mercedes-Benz,33,7,21.2,0,25,0,Dealer.com (15); Dealer Inspire (8),https://cloute.ai/industries/mercedes-benz-dealers
+Ford,148,28,18.9,0,120,0,Dealer.com (64); Dealer Inspire (21); DealerOn (20),https://cloute.ai/industries/ford-dealers
+Chrysler Dodge Jeep Ram,117,20,17.1,0,97,0,Dealer.com (56); Dealer Inspire (15); DealerOn (9),https://cloute.ai/industries/chrysler-dodge-jeep-ram-dealers
+Buick GMC,82,13,15.9,0,69,0,Dealer.com (30); DealerOn (22); Dealer Inspire (16),https://cloute.ai/industries/buick-gmc-dealers
+Nissan,64,10,15.6,0,54,0,Dealer.com (26); Dealer Inspire (12); DealerOn (6),https://cloute.ai/industries/nissan-dealers
+Kia,52,8,15.4,0,44,0,Dealer.com (18); Dealer Inspire (10); Team Velocity (7),https://cloute.ai/industries/kia-dealers
+Acura,21,3,14.3,0,18,0,Dealer.com (9); Dealer Inspire (5),https://cloute.ai/industries/acura-dealers
+BMW,37,5,13.5,0,32,0,Dealer.com (21); Dealer Inspire (6); DealerOn (3),https://cloute.ai/industries/bmw-dealers
+Cadillac,23,3,13.0,0,20,0,Dealer.com (8); Dealer Inspire (6); DealerOn (6),https://cloute.ai/industries/cadillac-dealers
+Chevrolet,140,17,12.1,0,123,0,Dealer.com (43); Dealer Inspire (39); DealerOn (36),https://cloute.ai/industries/chevrolet-dealers
+Toyota,136,15,11.0,0,121,0,Dealer.com (58); Dealer Inspire (27); DealerOn (21),https://cloute.ai/industries/toyota-dealers
+Volkswagen,29,3,10.3,0,25,0,Dealer.com (20); Team Velocity (3),https://cloute.ai/industries/volkswagen-dealers
+Honda,100,10,10.0,0,90,1,Dealer.com (37); Dealer Inspire (22); Team Velocity (12),https://cloute.ai/industries/honda-dealers
+Mazda,31,3,9.7,0,28,0,Dealer.com (11); Dealer Inspire (9); Team Velocity (6),https://cloute.ai/industries/mazda-dealers
+Audi,24,1,4.2,0,23,0,Dealer.com (13),https://cloute.ai/industries/audi-dealers
+Hyundai,53,2,3.8,0,51,0,Dealer.com (31); Dealer Inspire (13); DealerOn (4),https://cloute.ai/industries/hyundai-dealers
